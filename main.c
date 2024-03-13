@@ -1,6 +1,6 @@
 #include <stdio.h>
-
-int main() {
-    //Write your code here
-    return 0;
+int main()
+{
+printf("National Economics University\n");
+return 0;
 }
